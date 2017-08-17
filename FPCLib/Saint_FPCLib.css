@@ -1,0 +1,36 @@
+body {
+	background-color:#0099cc;
+}
+
+a:link {
+	color: green;
+}
+
+a:visited {
+	color: orange;
+}
+
+#page_header {
+	font-family:sans-serif;
+	color:white;
+	font-size: 24px;
+	color: #ffffff;
+	text-shadow: 2px 2px #000000;
+}
+
+#info {
+	text-align: center;
+	font-style: italic;
+	background-color:#0066ff;
+	height: auto;
+	background-image: url('fpcback.jpg');
+	background-blend-mode: color-dodge;
+}
+
+#copytext {
+	font-size: 8px;
+}
+
+#sectionbreak {
+	text-align: left;
+}
